@@ -1,0 +1,37 @@
+.listfunction{
+    background-color: blue;
+    color: crimson;
+    text-align: center;
+}
+.listfunction{
+    background-color: darkblue;
+    color: aliceblue;
+}
+.practiceweb{
+    background-color: rgb(0, 127, 139);
+    color: beige;   
+}
+.practiceparagraph{
+    color: darkblue;
+}
+.register{
+    background-color: cornflowerblue;
+    color: black;
+}
+.welcome{
+    background-color: midnightblue;
+    color: antiquewhite;
+    font-size: 50px;
+}
+.sn{
+    background-color: darkblue;
+    color: antiquewhite;
+}
+.tags{
+    background-color: darkblue;
+    color: antiquewhite;
+}
+.functions{
+    background-color: darkblue;
+    color: antiquewhite;
+}
