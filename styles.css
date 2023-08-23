@@ -1,3 +1,6 @@
+body{
+    background-color: lightblue;
+}
 .listfunction{
     background-color: blue;
     color: crimson;
@@ -34,4 +37,8 @@
 .functions{
     background-color: darkblue;
     color: antiquewhite;
+}
+.tabularindex{
+    display: inline-block;
+    background-color: antiquewhite;
 }
